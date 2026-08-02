@@ -1,1 +1,1 @@
-# CS5099_Multiple_Myeloma_Stage_Detection
+# CS5099_Multiple_Myeloma_Stage_Detection_Project
