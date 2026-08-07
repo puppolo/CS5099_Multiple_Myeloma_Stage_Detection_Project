@@ -1,5 +1,7 @@
 src/__pycache__/
 01_preprocssing_out
-data/patch
 02_augmentation_out
+03_train_simple_out
+embeddings_resnet50
+embeddings_biofuse
 data
